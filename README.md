@@ -163,7 +163,3 @@ Some possible directions for further development include:
 - Improving robustness to rotation, perspective changes, lighting, and image quality
 - Adding a confusion matrix and more detailed evaluation reports
 - Building a simple interface for uploading images and reviewing candidate matches
-
-## License
-
-Add a license to this repository if you plan to distribute the project for reuse.
