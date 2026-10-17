@@ -9,7 +9,7 @@ Instead of relying on color alone, the system looks at both the **structural det
 
 The project was built with Python and OpenCV, with a focus on practical image processing, feature matching, and visual result analysis.
 
-## 🎬 GIF Preview
+## GIF Preview
 
 <!-- Replace the path below with the location of your GIF in the repository. -->
 
